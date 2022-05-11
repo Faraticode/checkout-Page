@@ -1,0 +1,26 @@
+#sub-container{width: 40%;
+height: 100%;
+  float: left;
+}
+#top-container{border: 100%;
+  align-content: center;
+}
+#c{padding: 10px;
+  width: 202px;
+  color: white;
+  background-color: black;
+}
+#cc{padding: 10px;
+  width: 202px;
+  color: blue;
+  background-color: yellow;
+  font-style: italic;}
+  #Checkout{margin-top:0.8%;
+    float: right;
+  }
+  #cc span{color: black;}
+  
+  #p{font-weight: lighter;}
+  body{background-color:#eefbfe;}
+  @media screen and (max-width:600px;)
+  .sub-container{max-width: 100%;}
